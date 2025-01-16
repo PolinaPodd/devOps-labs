@@ -1,0 +1,20 @@
+---
+- src: https://github.com/PolinaPodd/ansible-role-docker.git
+  scm: git
+  name: docker
+
+- src: https://github.com/PolinaPodd/ansible-role-nginx.git
+  scm: git
+  name: nginx
+
+- src: https://github.com/PolinaPodd/ansible-role-django_app.git
+  scm: git
+  name: django_app
+
+- src: https://github.com/PolinaPodd/ansible-role-openvpn.git
+  scm: git
+  name: openvpn
+
+- src: https://github.com/PolinaPodd/ansible-role-postgresql.git
+  scm: git
+  name: postgresql
