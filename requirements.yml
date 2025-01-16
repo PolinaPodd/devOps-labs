@@ -1,0 +1,9 @@
+---
+- src: https://github.com/PolinaPodd/ansible-role-docker.git
+  name: docker
+
+- src: https://github.com/PolinaPodd/ansible-role-nginx.git
+  name: nginx
+
+- src: https://github.com/PolinaPodd/ansible-role-django_app.git
+  name: django_app
