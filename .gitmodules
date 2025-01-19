@@ -1,0 +1,27 @@
+[submodule "roles/openvpn"]
+	path = roles/openvpn
+	url = https://github.com/PolinaPodd/ansible-role-openvpn.git
+
+[submodule "roles/postgresql"]
+        path = roles/postgresql
+        url = https://github.com/PolinaPodd/ansible-role-postgresql.git
+
+[submodule "roles/prometheus"]
+        path = roles/prometheus
+        url = https://github.com/PolinaPodd/ansible-role-prometheus.git
+
+[submodule "roles/node_exporter"]
+        path = roles/node_exporter
+        url = https://github.com/PolinaPodd/ansible-role-node_exporter.git
+
+[submodule "roles/grafana"]
+        path = roles/grafana
+        url = https://github.com/PolinaPodd/ansible-role-grafana.git
+
+[submodule "roles/promtail_loki"]
+        path = roles/promtail_loki
+        url = https://github.com/PolinaPodd/ansible-role-promtail_loki.git
+
+[submodule "roles/spring_boot"]
+        path = roles/spring_boot
+        url = https://github.com/PolinaPodd/ansible-role-spring_boot.git
